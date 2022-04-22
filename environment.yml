@@ -1,0 +1,9 @@
+name: examples
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - branca
+  - folium
+  - ipython
+  - pandas
